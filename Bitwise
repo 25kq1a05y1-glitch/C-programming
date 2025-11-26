@@ -1,0 +1,11 @@
+//program to demo....bitwise operator
+#include<stdio.h>
+#include<conio.h>
+void main ()
+{
+int a,b;
+clrscr();
+a=10;
+printf("%d",!a);
+getch()
+}
